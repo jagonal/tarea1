@@ -1,3 +1,4 @@
-# First Chapter
+# Capítulo 1
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+*  [Sección 1.1.](seccion11.md)
+*  [Sección 1.2.](seccion12.md)

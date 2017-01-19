@@ -1,6 +1,6 @@
 Elija un idioma: 
-* ###### [English](en/SUMMARY.md)
+* ###### [English](en/)
 
-* ######[French](fr/SUMMARY.md)
+* ######[French](fr/)
 
-* ######[Español](es/SUMMARY.md)
+* ######[Español](es/)

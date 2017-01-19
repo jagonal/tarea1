@@ -1,13 +1,16 @@
 # Tarea: Cree un libro en GitBook que tenga al menos las características siguientes: {#tarea-cree-un-libro-en-gitbook-que-tenga-al-menos-las-características-siguientes}
 
-* [Prefacio](https://maglogon.gitbooks.io/prueba-del-curso-de-gitbook/content/es/preface.html)
+* [Prefacio](preface.md)
+
+
 
   ```
     Escribir un resumen o prefacio para el libro.
 
   ```
 
-* [Capítulo 1](https://maglogon.gitbooks.io/prueba-del-curso-de-gitbook/content/es/chapter1.html)
+* [Capítulo 1](chapter1.md)
+
 
   ```
     Un primer capítulo formado por dos secciones: cada una de ellas debe ser una página independiente.
@@ -15,7 +18,7 @@
 
   ```
 
-* [Capítulo 2](https://maglogon.gitbooks.io/prueba-del-curso-de-gitbook/content/es/chapter2.html)
+* [Capítulo 2](chapter2.md)
 
   ```
     Un segundo capítulo formado por tres secciones: cada una de ellas debe ser una página independiente.
@@ -23,7 +26,7 @@
 
   ```
 
-* [Capítulo 3](https://maglogon.gitbooks.io/prueba-del-curso-de-gitbook/content/es/chapter3.html)
+* [Capítulo 3](chapter3.md)
 
   ```
     Un tercer y último capítulo formado por una única sección.

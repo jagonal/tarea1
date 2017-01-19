@@ -1,6 +1,6 @@
 Elija un idioma: 
 * ###### [English](en/)
 
-* ######[French](fr/)
+* ######[French](/fr)
 
-* ######[Español](es/)
+* ######[Español](/es)

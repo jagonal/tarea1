@@ -1,4 +1,4 @@
-# Sección 2.3.
+# Sección 3.1.
 
 ###### Enlaces
 

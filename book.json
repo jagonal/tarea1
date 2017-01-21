@@ -4,22 +4,11 @@
         "footer",
         "layout"
     ],
-    "pluginsConfig": {
-        "page-toc": {
-            "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-            "position": "before-first"
-        }
-    }
-}
-
-
-{
-  "plugins": [
-    "footer"
-  ],
-  "pluginsConfig": {
+"pluginsConfig": {
     "layout": {
       "footerPath" : "layouts/footer.html"
     }
   }
 }
+
+

@@ -2,12 +2,15 @@
     "plugins": [
         "katex",
         "footer",
-        "page-toc"
+        "page-footer",
+        "page-toc-button",
+        "page-toc",
+        "simple-page-toc"
     ],
     "pluginsConfig": {
         "page-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-            "position": "top" }           
-            "layout": {
-      "footerPath" : "layouts/footer.html"}
-      }
+            "position": "before-first"
+        }
+    }
+}

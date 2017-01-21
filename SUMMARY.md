@@ -6,7 +6,6 @@
 
 * [Introduction](README.md)
 
-
 * [Capítulo 1](chapter1.md)
     * [Sección 1.1.](chapter1/seccion11.md)
     * [Sección 1.2.](chapter1/seccion12.md)

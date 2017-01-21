@@ -1,7 +1,7 @@
 # Summary
 
 
-* #### [Glosario](GLOSSARY.md)
+#### [Glosario](GLOSSARY.md)
 * #### [Prefacio](preface.md)
 * #### [Capítulo 1](chapter1.md)
 

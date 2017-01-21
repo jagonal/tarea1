@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "katex",
-        "localized-footer"
+        "katex"
     ],
     "pluginsConfig": {
         "layout": {

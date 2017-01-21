@@ -1,6 +1,8 @@
 {
     "plugins": [
-        "katex"
+        "katex",
+        "footer",
+        "layout"
     ],
     "pluginsConfig": {
         "page-toc": {

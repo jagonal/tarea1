@@ -11,3 +11,15 @@
         }
     }
 }
+
+
+{
+  "plugins": [
+    "footer"
+  ],
+  "pluginsConfig": {
+    "layout": {
+      "footerPath" : "layouts/footer.html"
+    }
+  }
+}

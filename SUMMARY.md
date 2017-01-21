@@ -11,10 +11,12 @@
     * [Sección 1.2.](chapter1/seccion12.md)
 
 * [Capítulo 2](chapter2.md)
-    * [Sección 1.1.](part1/writing.md)
-    * [Sección 1.1.](part1/gitbook.md)
+    * [Sección 2.1.](chapter2/seccion21.md)
+    * [Sección 2.2.](chapter2/seccion22.md)
+    * [Sección 2.3.](chapter2/seccion23.md)
+
 
 * [Capítulo 3](chapter3.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
+    * [Sección 3.1.](chapter3/seccion31.md)
+
 

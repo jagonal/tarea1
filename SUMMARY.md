@@ -10,7 +10,6 @@
     * [Sección 1.1.](chapter1/seccion11.md)
     * [Sección 1.2.](chapter1/seccion12.md)
 
-
 * [Capítulo 2](chapter2.md)
     * [Sección 2.1.](chapter2/seccion21.md)
     * [Sección 2.2.](chapter2/seccion22.md)

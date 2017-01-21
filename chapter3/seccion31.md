@@ -18,6 +18,8 @@ $$x=\frac{ -b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 ###### Pie de Página
 
+Nota: No logré que funcionara ninguno de los plugin para poner un footer. Uno funcionaba, pero el save no funcionaba.
+
 
 <html lang="es">
 <head>

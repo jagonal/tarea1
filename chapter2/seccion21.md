@@ -14,7 +14,7 @@ A continuación podemos ver un ejemplo de tablas.
 
 Tabla en formato HTML
 
-<table style="width:60%">
+<table style="width:80%">
   <tr>
     <th>Nombre</th>
     <th>Apellido</th> 

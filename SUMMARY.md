@@ -1,9 +1,7 @@
 # Summary
 
-## INDICE
 * [Introduction](README.md)
 
-## HOLA
 * [Glosario](GLOSSARY.md)
 
 * [Prefacio](preface.md)

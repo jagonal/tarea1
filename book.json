@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "katex",
+        "localized-footer"
+    ],
+    "pluginsConfig": {
+        "layout": {
+            "footerPath": "layouts/footer.html"
+        },
+        "localized-footer": {
+            "filename": "FOOTER.md"
+        }
+    }
+}

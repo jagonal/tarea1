@@ -8,7 +8,7 @@
             "footerPath": "layouts/footer.html"
         },
         "localized-footer": {
-            "filename": "FOOTER.md"
+            "filename": "chapter3/FOOTER.md"
         }
     }
 }

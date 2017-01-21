@@ -18,7 +18,7 @@
 
   ```
 
-* [Capítulo 2](chapter2.md)
+* [Capítulo 2](chapter2/chapter2.md)
 
   ```
     Un segundo capítulo formado por tres secciones: cada una de ellas debe ser una página independiente.
@@ -26,7 +26,7 @@
 
   ```
 
-* [Capítulo 3](chapter3.md)
+* [Capítulo 3](chapter3/chapter3.md)
 
   ```
     Un tercer y último capítulo formado por una única sección.

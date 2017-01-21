@@ -16,7 +16,6 @@
     * [Sección 2.3.](chapter2/seccion23.md)
 
 * [Capítulo 3](chapter3.md)
-
     * [Sección 3.1.](chapter3/seccion31.md)
 
 
